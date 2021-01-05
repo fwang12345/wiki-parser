@@ -53,7 +53,9 @@ Shinichi Kudo	|	Episode 129: The Girl from the Black Organization and the Univer
 Ai Haibara	|	Episode 129: The Girl from the Black Organization and the University Professor Murder Case
 Black Org	|	Episode 129: The Girl from the Black Organization and the University Professor Murder Case
 Ai Haibara	|	Episode 130: The Indiscriminate Stadium Threatening Case (Part 1)
+Miwako Sato	|	Episode 130: The Indiscriminate Stadium Threatening Case (Part 1)
 Ai Haibara	|	Episode 131: The Indiscriminate Stadium Threatening Case (Part 2)
+Miwako Sato	|	Episode 131: The Indiscriminate Stadium Threatening Case (Part 2)
 Shinichi Kudo	|	Episode 132: Magic Lover's Murder Case (The Case) (Note: Background)
 Kaitou Kid	|	Episode 132: Magic Lover's Murder Case (Murder)
 Kaitou Kid	|	Episode 133: Magic Lover's Murder Case (The Suspicion)
@@ -70,10 +72,16 @@ Shinichi Kudo	|	Episode 144: The North Star No.3 Express Leaving Ueno (Part 1) (
 Yukiko Kudo	|	Episode 144: The North Star No.3 Express Leaving Ueno (Part 1)
 Yukiko Kudo	|	Episode 145: The North Star No.3 Express Leaving Ueno (Part 2)
 Ai Haibara	|	Episode 146: Metropolitan Police Detective Love Story (Part 1)
+Miwako Sato	|	Episode 146: Metropolitan Police Detective Love Story (Part 1)
 Ai Haibara	|	Episode 147: Metropolitan Police Detective Love Story (Part 2)
+Miwako Sato	|	Episode 147: Metropolitan Police Detective Love Story (Part 2)
 Shinichi Kudo	|	Episode 149: The Amusement Park Bungee Jumping Case (Note: Pamphlet)
+Miwako Sato	|	Episode 150: The Truth Behind the Car Explosion Case (Part 1)
+Miwako Sato	|	Episode 152: The Mysterious Old Man Disappearance Case (Note: No speaking role)
 Ai Haibara	|	Episode 156: Metropolitan Police Detective Love Story 2 (Part 1)
+Miwako Sato	|	Episode 156: Metropolitan Police Detective Love Story 2 (Part 1)
 Ai Haibara	|	Episode 157: Metropolitan Police Detective Love Story 2 (Part 2)
+Miwako Sato	|	Episode 157: Metropolitan Police Detective Love Story 2 (Part 2)
 Shinichi Kudo	|	Episode 162: The Locked Room in the Sky: Shinichi Kudo's First Case
 Shinichi Kudo	|	Episode 163: The Secret of the Moon, the Star, and the Sun (Part 1) (Note: Background)
 Ai Haibara	|	Episode 165: The Disappearing Detective Boys Case
@@ -99,6 +107,7 @@ Ai Haibara	|	Episode 182: The Big Investigation of the Nine Doors
 Ai Haibara	|	Episode 188: The Desperate Revival (The Cavern of the Detective Boys)
 Ai Haibara	|	Episode 189: The Desperate Revival (The Wounded Great Detective)
 Heiji Hattori	|	Episode 189: The Desperate Revival (The Wounded Detective)
+Miwako Sato	|	Episode 189: The Desperate Revival (The Wounded Great Detective) (Note: No speaking role)
 Shinichi Kudo	|	Episode 190: The Desperate Revival (The Third Choice)
 Ai Haibara	|	Episode 190: The Desperate Revival (The Third Choice)
 Heiji Hattori	|	Episode 190: The Desperate Revival (The Third Choice)
@@ -118,10 +127,14 @@ Ai Haibara	|	Episode 194: The Significant Music Box (Part 1)
 Shinichi Kudo	|	Episode 195: The Significant Music Box (Part 2) (Note: Background)
 Shinichi Kudo	|	Episode 196: The Invisible Weapon, Ran's First Investigation (Note: Photo/Background)
 Ai Haibara	|	Episode 205: Metropolitan Police Detective Love Story 3 (Part 1)
+Miwako Sato	|	Episode 205: Metropolitan Police Detective Love Story 3 (Part 1)
 Ai Haibara	|	Episode 206: Metropolitan Police Detective Love Story 3 (Part 2)
+Miwako Sato	|	Episode 206: Metropolitan Police Detective Love Story 3 (Part 2)
 Ai Haibara	|	Episode 212: Mushrooms, Bears, and the Detective Boys (Part 1)
 Ai Haibara	|	Episode 213: Mushrooms, Bears, and the Detective Boys (Part 2)
 Shinichi Kudo	|	Episode 217: Megure's Sealed Secret (Part 1) (Note: Background)
+Miwako Sato	|	Episode 217: Megure's Sealed Secret (Part 1)
+Miwako Sato	|	Episode 218: Megure's Sealed Secret (Part 2)
 Shinichi Kudo	|	Episode 219: The Gathering of the Detectives! Shinichi Kudo vs. Kaitou Kid (Note: Flashback)
 Kaitou Kid	|	Episode 219: The Gathering of the Detectives! Shinichi Kudo vs. Kaitou Kid
 Shinichi Kudo	|	Episode 220: The Client Full of Lies (Part 1) (Note: Background)
@@ -146,6 +159,7 @@ Shuichi Akai	|	Episode 231: The Mysterious Passenger (Part 2)
 Black Org	|	Episode 231: The Mysterious Passenger (Part 2)
 Jodie Starling	|	Episode 231: The Mysterious Passenger (Part 2)
 Vermouth	|	Episode 231: The Mysterious Passenger (Part 2) (Note: Disguised as Tomoaki Araide)
+Miwako Sato	|	Episode 231: The Mysterious Passenger (Part 2)
 Ai Haibara	|	Episode 233: The Evidence That Didn't Disappear (Part 1)
 Ai Haibara	|	Episode 234: The Evidence That Didn't Disappear (Part 2)
 Heiji Hattori	|	Episode 238: The 3 "K"s of Osaka Case (Part 1)
@@ -153,19 +167,25 @@ Shinichi Kudo	|	Episode 239: The 3 "K"s of Osaka Case (Part 2) (Note: Background
 Heiji Hattori	|	Episode 239: The 3 "K"s of Osaka Case (Part 2)
 Shinichi Kudo	|	Episode 240: The Shinkansen Transport Case (Part 1) (Note: Voice/Background)
 Heiji Hattori	|	Episode 240: The Shinkansen Transport Case (Part 1)
+Miwako Sato	|	Episode 240: The Shinkansen Transport Case (Part 1)
+Miwako Sato	|	Episode 241: The Shinkansen Transport Case (Part 2)
 Ai Haibara	|	Episode 242: Boy Genta's Misfortune
+Miwako Sato	|	Episode 242: Boy Genta's Misfortune
 Ai Haibara	|	Episode 246: The Mystery in the Net (Part 1)
 Ai Haibara	|	Episode 247: The Mystery in the Net (Part 2)
 Shinichi Kudo	|	Episode 250: The Celebrities' Secret (Part 2) (Note: Photograph)
 Shinichi Kudo	|	Episode 253: Metropolitan Police Detective Love Story 4 (Part 1) (Note: Voice)
 Vermouth	|	Episode 253: Metropolitan Police Detective Love Story 4 (Part 1) (Note: Disguised as Tomoaki Araide)
+Miwako Sato	|	Episode 253: Metropolitan Police Detective Love Story 4 (Part 1)
 Shinichi Kudo	|	Episode 254: Metropolitan Police Detective Love Story 4 (Part 2) (Note: Voice)
 Shuichi Akai	|	Episode 254: Metropolitan Police Detective Love Story 4 (Part 2) (Note: No speaking role)
 Vermouth	|	Episode 254: Metropolitan Police Detective Love Story 4 (Part 2) (Note: Disguised as Tomoaki Araide)
+Miwako Sato	|	Episode 254: Metropolitan Police Detective Love Story 4 (Part 2)
 Shinichi Kudo	|	Episode 255: The 14th Round of the Matsue Tamatsukuri Linked Verse Contest (Part 1) (Note: Conan's thoughts)
 Ai Haibara	|	Episode 258: The Man from Chicago (Part 1)
 Ai Haibara	|	Episode 259: The Man from Chicago (Part 2)
 Shuichi Akai	|	Episode 259: The Man from Chicago (Part 2)
+Miwako Sato	|	Episode 259: The Man from Chicago (Part 2)
 Shinichi Kudo	|	Episode 263: The Osaka Double Mystery - The Naniwa Swordsman and Toyotomi's Castle (Note: Background)
 Heiji Hattori	|	Episode 263: The Osaka Double Mystery - The Naniwa Swordsman and Toyotomi's Castle
 Ai Haibara	|	Episode 266: The Truth Behind Valentine's (The Murder)
@@ -176,7 +196,7 @@ Ai Haibara	|	Episode 269: The Forgotten Memento from the Crime (Part 1)
 Shuichi Akai	|	Episode 269: The Forgotten Memento from the Crime (Part 1) (Note: Background)
 Shinichi Kudo	|	Episode 270: The Forgotten Memento from the Crime (Part 2) (Note: Background)
 Ai Haibara	|	Episode 270: The Forgotten Memento from the Crime (Part 2)
-Shuichi Akai	|	Episode 270: The Forgotten Memento from the Crime (2 (Note: No speaking role))
+Shuichi Akai	|	Episode 270: The Forgotten Memento from the Crime (Part 2) (Note: No speaking role)
 Shinichi Kudo	|	Episode 271: The Secret Rushed Omission (Part 1) (Note: Background)
 Yukiko Kudo	|	Episode 271: The Secret Rushed Omission (Part 1) (Note: Background)
 Shuichi Akai	|	Episode 271: The Secret Rushed Omission (Part 1) (Note: Flashback; no speaking role)
@@ -228,9 +248,12 @@ Heiji Hattori	|	Episode 293: Solitary Island of the Princess and the Dragon King
 Ai Haibara	|	Episode 294: The Smash of Determination and Love (Part 1)
 Ai Haibara	|	Episode 295: The Smash of Determination and Love (Part 2)
 Ai Haibara	|	Episode 301: Parade of Malice and Saint (Part 1)
+Miwako Sato	|	Episode 301: Parade of Malice and Saint (Part 1)
 Ai Haibara	|	Episode 302: Parade of Malice and Saint (Part 2)
+Miwako Sato	|	Episode 302: Parade of Malice and Saint (Part 2)
 Shinichi Kudo	|	Episode 304: The Trembling Police Headquarters: 12 Million Hostages (Note: Voice/Background)
 Ai Haibara	|	Episode 304: The Trembling Police Headquarters: 12 Million Hostages
+Miwako Sato	|	Episode 304: The Trembling Police Headquarters: 12 Million Hostages
 Black Org	|	Episode 307: On the Trail of a Silent Witness (Part 1)
 Shinichi Kudo	|	Episode 308: On the Trail of a Silent Witness (Part 2) (Note: Background)
 Shuichi Akai	|	Episode 308: On the Trail of a Silent Witness (Part 2) (Note: No speaking role)
@@ -249,6 +272,8 @@ Shuichi Akai	|	Episode 311: Contact with the Black Organization (The Desperation
 Black Org	|	Episode 311: Contact with the Black Organization (Desperation Chapter)
 Ai Haibara	|	Episode 312: Festival Dolls Dyed in the Setting Sun (Part 1)
 Ai Haibara	|	Episode 313: Festival Dolls Dyed in the Setting Sun (Part 2)
+Miwako Sato	|	Episode 321: The Kidnapper's Disappearing Getaway Car (Part 1)
+Miwako Sato	|	Episode 322: The Kidnapper's Disappearing Getaway Car (Part 2)
 Shinichi Kudo	|	Episode 323: Heiji Hattori's Desperate Situation! (Part 1) (Note: Background)
 Heiji Hattori	|	Episode 323: Heiji Hattori's Desperate Situation! (Part 1)
 Heiji Hattori	|	Episode 324: Heiji Hattori's Desperate Situation! (Part 2)
@@ -295,20 +320,26 @@ Black Org	|	Episode 345: Head-to-Head Match with the Black Organization: A Dual 
 Jodie Starling	|	Episode 345: Head-to-Head Match with the Black Organization: A Dual Mystery on a Full Moon Night
 Vermouth	|	Episode 345: Head-to-Head Match with the Black Organization: A Dual Mystery on a Full Moon Night
 FBI	|	Episode 345: Head-to-Head Match With the Black Organization; Two Mysteries of the Night of the Full Moon
+Miwako Sato	|	Episode 345: Head-to-Head Match with the Black Organization: A Dual Mystery on a Full Moon Night
 Ai Haibara	|	Episode 346: Find the Buttocks' Mark! (Part 1)
 Yukiko Kudo	|	Episode 346: Find the Buttock's Mark (Part 1) (Note: Flashback)
 Jodie Starling	|	Episode 346: Find the Buttock's Mark (Part 1)
 Vermouth	|	Episode 346: Find the Buttock's Mark (Part 1) (Note: Flashback)
 FBI	|	Episode 346: Find the Buttocks' Mark! (Part 1)
+Miwako Sato	|	Episode 346: Find the Buttock's Mark (Part 1)
 Ai Haibara	|	Episode 347: Find the Buttocks' Mark! (Part 2)
 Jodie Starling	|	Episode 347: Find the Buttock's Mark (Part 2)
 FBI	|	Episode 347: Find the Buttocks' Mark! (Part 2)
+Miwako Sato	|	Episode 347: Find the Buttock's Mark (Part 2)
 Ai Haibara	|	Episode 348: Love, Ghosts, and World Heritage (Part 1)
 Ai Haibara	|	Episode 349: Love, Ghosts, and World Heritage (Part 2)
 Vermouth	|	Episode 350: The Forgotten Cell Phone (Part 1) (Note: Flashback)
 Kaitou Kid	|	Episode 356: Kaitou Kid's Miraculous Midair Walk
 Ai Haibara	|	Episode 358: Metropolitan Police Detective Love Story 5 (Part 1)
+Miwako Sato	|	Episode 358: Metropolitan Police Detective Love Story 5 (Part 1)
 Ai Haibara	|	Episode 359: Metropolitan Police Detective Love Story 5 (Part 2)
+Miwako Sato	|	Episode 359: Metropolitan Police Detective Love Story 5 (Part 2)
+Miwako Sato	|	Episode 360: A Mysterious Spring Beetle
 Shinichi Kudo	|	Episode 361: Teitan High School's Ghost Story (Part 1) (Note: Flashback)
 Ai Haibara	|	Episode 361: Teitan High School's Ghost Story (Part 1) (Note: Flashback)
 Jodie Starling	|	Episode 361: Teitan High School's Ghost Story (Part 1)
@@ -318,6 +349,7 @@ Vermouth	|	Episode 362: Teitan High School's Ghost Story (Part 2) (Note: Backgro
 Ai Haibara	|	Episode 366: The Tragedy of the Pier in Plain Sight (Part 1)
 Ai Haibara	|	Episode 367: The Tragedy of the Pier in Plain Sight (Part 2)
 Shinichi Kudo	|	Episode 368: The Candy House the Witch Lives In (Note: Background)
+Miwako Sato	|	Episode 370: Running Away in a Game
 Vermouth	|	Episode 371: A Course Without Protest (Part 1) (Note: Conan's Memory)
 Ai Haibara	|	Episode 373: Deadly Poisonous Spider Trap
 Ai Haibara	|	Episode 374: A Code of Stars and Tobacco (Part 1)
@@ -328,13 +360,17 @@ Shinichi Kudo	|	Episode 382: Which One's Deduction Show (Part 2) (Note: Flashbac
 Heiji Hattori	|	Episode 382: Which One's Deduction Show (Part 2)
 Shinichi Kudo	|	Episode 383: Miracle at Koshien Ball Park! The Defiants Face the Dark Demon (Note: Flashback)
 Heiji Hattori	|	Episode 383: Miracle at Koshien Ball Park! The Defiants Face the Dark Demon
+Miwako Sato	|	Episode 384: The Target is Kogoro Mouri
 Ai Haibara	|	Episode 385: The Dissonance of the Stradivarius (Prelude)
 Vermouth	|	Episode 385: The Dissonance of the Stradivarius (Prelude) (Note: Flashback/Background)
 Shinichi Kudo	|	Episode 386: The Dissonance of the Stradivarius (Interlude) (Note: Flashback)
 Shinichi Kudo	|	Episode 387: The Dissonance of the Stradivarius (Postlude) (Note: Flashback)
 Yukiko Kudo	|	Episode 387: The Dissonance of the Stradivarius (Postlude)
 Ai Haibara	|	Episode 390: Metropolitan Police Detective Love Story 6 (Part 1)
+Miwako Sato	|	Episode 390: Metropolitan Police Detective Love Story 6 (Part 1)
 Ai Haibara	|	Episode 391: Metropolitan Police Detective Love Story 6 (Part 2)
+Miwako Sato	|	Episode 391: Metropolitan Police Detective Love Story 6 (Part 2)
+Miwako Sato	|	Episode 392: The Mysterious Height Difference of 20cm
 Ai Haibara	|	Episode 394: Big Adventure in the Eccentric Mansion (The Seal)
 Kaitou Kid	|	Episode 394: Big Adventure in the Eccentric Mansion (The Seal)
 Vermouth	|	Episode 394: Big Adventure in the Eccentric Mansion (Note: Background)
@@ -342,14 +378,17 @@ Ai Haibara	|	Episode 395: Big Adventure in the Eccentric Mansion (The Mechanism)
 Kaitou Kid	|	Episode 395: Big Adventure in the Eccentric Mansion (The Mechanism)
 Ai Haibara	|	Episode 396: Big Adventure in the Eccentric Mansion (The Resolution)
 Kaitou Kid	|	Episode 396: Big Adventure in the Eccentric Mansion (The Resolution)
+Miwako Sato	|	Episode 397: Hot, Bitter, Sweet Soup
 Shinichi Kudo	|	Episode 398: The Strange Family's Request (Part 1) (Note: in Ran's thought)
 Ai Haibara	|	Episode 398: The Strange Family's Request (Part 1)
 Vermouth	|	Episode 398: The Strange Family's Request (Part 1) (Note: Background)
 Shinichi Kudo	|	Episode 399: The Strange Family's Request (Part 2) (Note: Background)
 Shinichi Kudo	|	Episode 400: Ran's Suspicions (Note: Flashback)
 Shinichi Kudo	|	Episode 401: A Jewel Thief Caught Red-Handed (Part 1) (Note: Voice flashback)
-Ai Haibara	|	Episode 401: Red-Handed Jewel Robber (Part 1)
-Ai Haibara	|	Episode 402: Red-Handed Jewel Robber (Part 2)
+Ai Haibara	|	Episode 401: A Jewel Thief Caught Red-Handed (Part 1)
+Miwako Sato	|	Episode 401: A Jewel Thief Caught Red-Handed (Part 1)
+Ai Haibara	|	Episode 402: A Jewel Thief Caught Red-Handed (Part 2)
+Miwako Sato	|	Episode 402: A Jewel Thief Caught Red-Handed (Part 2)
 Ai Haibara	|	Episode 403: The Mysterious Angel's Mansion (Part 1)
 Ai Haibara	|	Episode 404: The Mysterious Angel's Mansion (Part 2)
 Heiji Hattori	|	Episode 406: Conan and Heiji's Deduction Magic (The Trick)
@@ -360,15 +399,18 @@ Ai Haibara	|	Episode 411: The Shinto Shrine Torii's Surprising Code (Part 1)
 Shinichi Kudo	|	Episode 412: The Shinto Shrine Torii's Surprising Code (Part 2) (Note: Voice)
 Ai Haibara	|	Episode 412: The Shinto Shrine Torii's Surprising Code (Part 2)
 Shinichi Kudo	|	Episode 413: The Half Completed Crime Mystery (Note: Flashback)
-Ai Haibara	|	Episode 414: The Detective Boys Follow the Blue Bird
+Ai Haibara	|	Episode 414: The Detective Boys' Bluebird Chase
 Ai Haibara	|	Episode 418: Home of Beika's Grenier
 Yukiko Kudo	|	Episode 418: Home of Beika's Grenier
+Black Org	|	Episode 418: Home of Beika's Grenier (Note: Background)
 Vermouth	|	Episode 418: Home of Beika's Grenier (Note: Background)
 Ai Haibara	|	Episode 421: Gingko-Colored First Love (Part 1)
 Shinichi Kudo	|	Episode 422: Gingko-Colored First Love (Part 2) (Note: Flashback)
 Ai Haibara	|	Episode 422: Gingko-Colored First Love (Part 2)
 Shinichi Kudo	|	Episode 423: The Detective Boys and the Four Caterpillar Brothers (Note: Background)
 Ai Haibara	|	Episode 423: Detective Boys and the Four Aomushi Brothers
+Miwako Sato	|	Episode 423: The Detective Boys and the Four Caterpillar Brothers
+Miwako Sato	|	Episode 424: The Photo Mail from the Clown
 Shinichi Kudo	|	Episode 425: Black Impact! The Moment the Black Organization Reaches Out (Note: Flashback/Background)
 Ai Haibara	|	Episode 425: Black Impact! The Moment the Black Organization Reaches Out!
 Shuichi Akai	|	Episode 425: Black Impact! The Moment the Black Organization Reaches Out!
@@ -376,11 +418,16 @@ Black Org	|	Episode 425: Black Impact! The Moment the Black Organization Reaches
 Jodie Starling	|	Episode 425: Black Impact! The Moment the Black Organization Reaches Out
 Vermouth	|	Episode 425: Black Impact! The Moment the Black Organization Reaches Out!
 FBI	|	Episode 425: Black Impact! The Moment the Black Organization Reaches Out!
+Miwako Sato	|	Episode 425: Black Impact! The Moment the Black Organization Reaches Out
 Shinichi Kudo	|	Episode 426: Love Letter to Ran (Note: Background)
 Ai Haibara	|	Episode 427: Super Secret of the Road to School (Part 1)
 Ai Haibara	|	Episode 428: Super Secret of the Road to School (Part 2)
 Vermouth	|	Episode 428: Super Secret of the Road to School (Part 2) (Note: Background)
+Miwako Sato	|	Episode 431: Metropolitan Police Detective Love Story 7 (Part 1)
+Miwako Sato	|	Episode 432: Metropolitan Police Detective Love Story 7 (Part 2)
+Miwako Sato	|	Episode 433: Conan: A Strange Child (Note: No speaking role)
 Shinichi Kudo	|	Episode 434: The Great Dog Coeur's Triumph (Note: background)
+Miwako Sato	|	Episode 434: The Great Dog Coeur's Triumph
 Ai Haibara	|	Episode 435: Information Gathered About the Detective Boys (Part 1)
 Black Org	|	Episode 435: Information Gathered About the Detective Boys (Part 1) (Note: Background)
 Vermouth	|	Episode 435: Information Gathered About the Detective Boys (Part 1)
@@ -389,6 +436,8 @@ Shinichi Kudo	|	Episode 437: Aya Ueto and Shinichi - The Promise from 4 Years Ag
 Yukiko Kudo	|	Episode 437: Aya Ueto and Shinichi - The Promise from 4 Years Ago (Note: Photo)
 Ai Haibara	|	Episode 443: Clam Digging With a Sigh (Part 1)
 Ai Haibara	|	Episode 444: Clam Digging With a Sigh (Part 2)
+Miwako Sato	|	Episode 449: Metropolitan Police Detective Love Story - Fake Wedding
+Miwako Sato	|	Episode 451: Trick vs. Magic (Part 2)
 Ai Haibara	|	Episode 453: Preview Screening of Fate and Friendship
 Ai Haibara	|	Episode 454: The Overturned Conclusion (Part 1)
 Ai Haibara	|	Episode 455: The Overturned Conclusion (Part 2)
@@ -410,7 +459,10 @@ Vermouth	|	Episode 466: The Unsmashable Snowman (Part 1) (Note: Background)
 Ai Haibara	|	Episode 467: The Unsmashable Snowman (Part 2)
 Ai Haibara	|	Episode 468: Mysterious Case Near the Pond
 Kaitou Kid	|	Episode 469: Kaitou Kid and the Four Masterpieces (Part 1)
+Miwako Sato	|	Episode 469: Kaitou Kid and the Four Masterpieces (Part 1)
 Kaitou Kid	|	Episode 470: Kaitou Kid and the Four Masterpieces (Part 2)
+Miwako Sato	|	Episode 470: Kaitou Kid and the Four Masterpieces (Part 2)
+Miwako Sato	|	Episode 471: The Uncontrollable Rental Car!
 Shinichi Kudo	|	Episode 472: Shinichi Kudo's Childhood Adventure (Part 1) (Note: 1st grade)
 Ai Haibara	|	Episode 472: Shinichi Kudo's Childhood Adventure (Part 1)
 Yukiko Kudo	|	Episode 472: Shinichi Kudo's Childhood Adventure (Part 1)
@@ -431,7 +483,9 @@ Ai Haibara	|	Episode 484: Whereabouts of the Dark Photograph (Part 1)
 Heiji Hattori	|	Episode 484: Whereabouts of the Dark Photograph (part 1)
 Ai Haibara	|	Episode 485: Whereabouts of the Dark Photograph (Part 2)
 Ai Haibara	|	Episode 486: Beckoning Cat from Right to Left
+Miwako Sato	|	Episode 487: Metropolitan Police Detective Love Story 8: The Left Hand's Ring Finger
 Ai Haibara	|	Episode 488: The Devil of the TV Station
+Miwako Sato	|	Episode 489: Courtroom Confrontation III: Prosecutor as Eyewitness (Note: Ending)
 Shinichi Kudo	|	Episode 490: Heiji Hattori vs. Shinichi Kudo: Deduction Battle on the Ski Slope (Note: Middle school age)
 Yukiko Kudo	|	Episode 490: Heiji Hattori vs. Shinichi Kudo: Deduction Battle on the Ski Slope
 Heiji Hattori	|	Episode 490: Heiji Hattori vs. Shinichi Kudo: Deduction Battle on the Ski Slope
@@ -521,6 +575,7 @@ Ai Haibara	|	Episode 511: Deduction Showdown! Shinichi vs. Subaru Okiya
 Ai Haibara	|	Episode 515: Kaitou Kid's Teleportation Magic
 Heiji Hattori	|	Episode 515: Kaitou Kid's Teleportation Magic
 Kaitou Kid	|	Episode 515: Kaitou Kid's Teleportation Magic
+Miwako Sato	|	Episode 515: Kaitou Kid's Teleportation Magic
 Shinichi Kudo	|	Episode 516: Furinkazan (The Mysterious Armored Warrior) (Note: Background)
 Heiji Hattori	|	Episode 516: Furinkazan
 Shinichi Kudo	|	Episode 517: Furinkazan (Shadow and Lightning Conclusion) (Note: Voice/Background)
@@ -533,22 +588,33 @@ Heiji Hattori	|	Episode 521: Murderer, Shinichi Kudo
 Shinichi Kudo	|	Episode 522: Shinichi's True Face and Ran's Tears
 Ai Haibara	|	Episode 522: Shinichi's True Face and Ran's Tears
 Heiji Hattori	|	Episode 522: Murderer, Shinichi Kudo
+Miwako Sato	|	Episode 522: Shinichi's True Face and Ran's Tears
 Shinichi Kudo	|	Episode 523: What She Truly Wants to Ask
 Ai Haibara	|	Episode 523: What She Truly Wants to Ask
 Heiji Hattori	|	Episode 523: Murderer, Shinichi Kudo
+Miwako Sato	|	Episode 523: What She Truly Wants to Ask
 Shinichi Kudo	|	Episode 524: The Blue Spark of Hate (Part 1)
 Ai Haibara	|	Episode 524: The Blue Spark of Hate (Part 1)
 Heiji Hattori	|	Episode 524: The Blue Spark of Hate (Part 1)
 Ai Haibara	|	Episode 525: The Blue Spark of Hate (Part 2)
+Miwako Sato	|	Episode 526: A Present from the True Culprit
+Miwako Sato	|	Episode 530: The Truth Behind the Urban Legend (Part 1)
+Miwako Sato	|	Episode 531: The Truth Behind the Urban Legend (Part 2)
 Ai Haibara	|	Episode 533: The Scar that Evokes the Past
+Miwako Sato	|	Episode 533: The Scar that Evokes the Past
 Ai Haibara	|	Episode 534: The New Scar and the Whistling Man
+Miwako Sato	|	Episode 534: The New Scar and the Whistling Man
 Ai Haibara	|	Episode 535: An Old Scar and the Detective's Spirit
+Miwako Sato	|	Episode 535: An Old Scar and the Detective's Spirit
 Ai Haibara	|	Episode 536: The Secret of the Vanished Masterpiece
 Kaitou Kid	|	Episode 537: Kaitou Kid vs. the Strongest Safe (Part 1)
+Miwako Sato	|	Episode 537: Kaitou Kid vs. the Strongest Safe (Part 1) (Note: Background)
 Kaitou Kid	|	Episode 538: Kaitou Kid vs. the Strongest Safe (Part 2)
 Ai Haibara	|	Episode 542: Ikkaku Rock's Disappearing Fish (Part 1)
 Ai Haibara	|	Episode 543: Ikkaku Rock's Disappearing Fish (Part 2)
 Shinichi Kudo	|	Episode 545: The Witch Enshrouded by Fog (Part 1) (Note: Voice/Background)
+Miwako Sato	|	Episode 545: The Witch Enshrouded by Fog (Part 1)
+Miwako Sato	|	Episode 546: The Witch Enshrouded by Fog (Part 2)
 Ai Haibara	|	Episode 549: The Revolving Sushi Mystery (Part 1)
 Ai Haibara	|	Episode 550: The Revolving Sushi Mystery (Part 2)
 Ai Haibara	|	Episode 551: The Culprit is Genta's Dad (Part 1)
@@ -569,7 +635,9 @@ Jodie Starling	|	Episode 564: Detective Boys vs. Robber Group (Silence)
 FBI	|	Episode 564: Detective Boys vs. Robber Group (Silence)
 Shinichi Kudo	|	Episode 565: The Eyewitness Who Did Not See (Note: Background)
 Ai Haibara	|	Episode 568: Inspector Shiratori, Memories of the Cherry Blossom (Part 1)
+Miwako Sato	|	Episode 568: Inspector Shiratori, Memories of the Cherry Blossom (Part 1)
 Ai Haibara	|	Episode 569: Inspector Shiratori, Memories of the Cherry Blossom (Part 2)
+Miwako Sato	|	Episode 569: Inspector Shiratori, Memories of the Cherry Blossom (Part 2)
 Ai Haibara	|	Episode 571: Battle of the Haunted Warehouse's Treasure (Part 1)
 Heiji Hattori	|	Episode 571: Battle of the Haunted Warehouse's Treasure (Part 1) (Note: Flashback)
 Kaitou Kid	|	Episode 571: Battle of the Haunted Warehouse's Treasure (Part 1) (Note: Background)
@@ -596,9 +664,12 @@ Jodie Starling	|	Episode 581: The Red Shaking Target
 Vermouth	|	Episode 581: The Crisis Beckoned by the Red Omen
 FBI	|	Episode 581: The Red Shaking Target
 Ai Haibara	|	Episode 583: Kobayashi-sensei's Love
+Miwako Sato	|	Episode 583: Kobayashi-sensei's Love
 Ai Haibara	|	Episode 584: Kobayashi-sensei's Love
+Miwako Sato	|	Episode 584: Kobayashi-sensei's Love
 Ai Haibara	|	Episode 585: Kobayashi-sensei's Love
 Kaitou Kid	|	Episode 585: Timeless Sakura's Love
+Miwako Sato	|	Episode 585: Kobayashi-sensei's Love
 Ai Haibara	|	Episode 586: The Kirin's Horn That Vanished into the Dark
 Kaitou Kid	|	Episode 586: The Kirin's Horn That Vanished into the Dark
 Ai Haibara	|	Episode 587: Kid VS The Four Divine Detective Boys
@@ -606,12 +677,14 @@ Kaitou Kid	|	Episode 587: Kid vs. the Four Divine Detective Boys
 Ai Haibara	|	Episode 591: The House with the Aquarium
 Shinichi Kudo	|	Episode 592: The Detective Memoir of Monkey and Rake (Part 1) (Note: Flashback)
 Shinichi Kudo	|	Episode 593: The Detective Memoir of Monkey and Rake (Part 2) (Note: Background)
-Ai Haibara	|	Episode 597: The Scenario of the Locked Steam Room (Part 1)
-Ai Haibara	|	Episode 598: The Scenario of the Locked Steam Room (Part 2)
+Ai Haibara	|	Episode 597: The Scenario of the Steaming Locked Room (Part 1)
+Ai Haibara	|	Episode 598: The Scenario of the Steaming Locked Room (Part 2)
 Ai Haibara	|	Episode 606: Courtroom Confrontation IV: Juror Sumiko Kobayashi (Part 1)
 Ai Haibara	|	Episode 607: Courtroom Confrontation IV: Juror Sumiko Kobayashi (Part 2)
 Shinichi Kudo	|	Episode 608: White Day of Betrayal (Part 1) (Note: Background)
+Miwako Sato	|	Episode 608: White Day of Betrayal (Part 1)
 Shinichi Kudo	|	Episode 609: White Day of Betrayal (Part 2) (Note: Voice/Background)
+Miwako Sato	|	Episode 609: White Day of Betrayal (Part 2)
 Heiji Hattori	|	Episode 610: The Victim is Shinichi Kudo
 Heiji Hattori	|	Episode 611: Inubushi Castle, The Ablazed Demon Dog (Will-o'-The-Wisp Chapter)
 Heiji Hattori	|	Episode 612: Inubushi Castle, The Ablazed Demon Dog (Footsteps Chapter)
@@ -661,8 +734,12 @@ Vermouth	|	Episode 656: The Professor's Video Site (Part 1) (Note: Background)
 Ai Haibara	|	Episode 657: The Professor's Video Site (Part 2)
 Ai Haibara	|	Episode 659: Co-Investigating with a First Love (Part 1)
 Ai Haibara	|	Episode 660: Co-Investigating with a First Love (Part 2)
+Miwako Sato	|	Episode 660: Co-Investigating with a First Love (Part 2)
+Miwako Sato	|	Episode 661: Kogoro-san is a Good Man (Part 1)
+Miwako Sato	|	Episode 662: Kogoro-san is a Good Man (Part 2)
 Ai Haibara	|	Episode 663: Chase the Miyama Stag Beetle
 Ai Haibara	|	Episode 664: The Great Dog Coeur's Triumph 2
+Miwako Sato	|	Episode 665: The Suspicious Initial K
 Black Org	|	Episode 667: Wedding Eve (Part 1)
 Rei Furuya	|	Episode 667: Wedding Eve (Part 1)
 Black Org	|	Episode 668: Wedding Eve (Part 2)
@@ -688,15 +765,20 @@ Rei Furuya	|	Episode 675: Won't Forgive Even One Millimeter (Part 1) (Note: Disg
 Ai Haibara	|	Episode 676: Won't Forgive Even One Millimeter (Part 2)
 Black Org	|	Episode 681: The Life-Threatening Broadcast of Love (Begin Broadcasting)
 Rei Furuya	|	Episode 681: The Life-Threatening Broadcast of Love (Begin Broadcasting)
+Miwako Sato	|	Episode 681: The Life-Threatening Broadcast of Love (Part 1)
+Miwako Sato	|	Episode 682: The Life-Threatening Broadcast of Love (Part 2)
 Ai Haibara	|	Episode 683: The Life-Threatening Broadcast of Love (Enter the Scene)
 Black Org	|	Episode 683: The Life-Threatening Broadcast of Love (Enter the Scene)
 Rei Furuya	|	Episode 683: The Life-Threatening Broadcast of Love (Enter the Scene)
+Miwako Sato	|	Episode 683: The Life-Threatening Broadcast of Love (Part 3)
 Ai Haibara	|	Episode 684: Froth, Steam, and Smoke (Part 1)
 Ai Haibara	|	Episode 685: Froth, Steam, and Smoke (Part 2)
 Ai Haibara	|	Episode 686: A Car Carrying a Time Bomb
 Ai Haibara	|	Episode 687: The Unsolvable Ice Trap
 Shinichi Kudo	|	Episode 690: Yusaku Kudo's Cold Case (Part 1) (Note: Flashback/Background)
 Shinichi Kudo	|	Episode 691: Yusaku Kudo's Cold Case (Part 2) (Note: Flashback/Background)
+Miwako Sato	|	Episode 692: The Evening Cherry Blossom Viewing Route on Sumida River (Part 1)
+Miwako Sato	|	Episode 693: The Evening Cherry Blossom Viewing Route on Sumida River (Part 2)
 Ai Haibara	|	Episode 696: The Flowerbed Vandal's Scheme
 Ai Haibara	|	Episode 698: No Way! The UFO Crash Case
 Ai Haibara	|	Episode 699: The Shadow Approaching Haibara's Secret (Part 1)
@@ -736,6 +818,7 @@ Shinichi Kudo	|	Episode 706: Conan in a Locked Room (Part 2) (Note: Background)
 Black Org	|	Episode 706: Bourbon Figures It Out
 Vermouth	|	Episode 706: Bourbon Figures It Out
 Rei Furuya	|	Episode 706: Conan in a Locked Room
+Miwako Sato	|	Episode 707: The Framed Great Detective
 Ai Haibara	|	Episode 708: The Man Who Fell Slowly
 Heiji Hattori	|	Episode 710: Everyone Saw (Part 1)
 Heiji Hattori	|	Episode 711: Everyone Saw (Part 2)
@@ -743,6 +826,7 @@ Heiji Hattori	|	Episode 712: Heiji Hattori and the Vampire Mansion (Part 1)
 Heiji Hattori	|	Episode 713: Heiji Hattori and the Vampire Mansion (Part 2)
 Heiji Hattori	|	Episode 714: Heiji Hattori and the Vampire Mansion (Part 3)
 Heiji Hattori	|	Episode 715: Heiji Hattori and the Vampire Mansion (Part 4)
+Miwako Sato	|	Episode 719: A Dispute Over a Platinum Ticket
 Ai Haibara	|	Episode 720: Fire and Water Mystery Tour (Aso Part)
 Ai Haibara	|	Episode 721: Fire and Water Mystery Tour (Kumamoto Part)
 Ai Haibara	|	Episode 722: Sweet and Cold Delivery Service (Part 1)
@@ -762,6 +846,7 @@ Vermouth	|	Episode 734: Jodie's Memories and the Cherry Blossom Viewing Trap
 Rei Furuya	|	Episode 734: Jodie's Memories and the Cherry Blossom Viewing Trap
 FBI	|	Episode 734: Jodie's Memories and the Cherry Blossom Viewing Trap
 Ai Haibara	|	Episode 735: The Coded Invitation
+Miwako Sato	|	Episode 735: The Coded Invitation
 Ai Haibara	|	Episode 737: The Suspicious Walking Path
 Ai Haibara	|	Episode 738: Kogoro in the Bar (Part 1) (Note: Flashback)
 Vermouth	|	Episode 739: Kogoro in the Bar (Part 2) (Note: Background)
@@ -773,16 +858,20 @@ Ai Haibara	|	Episode 741: Bathroom Where Ran Collapsed As Well (Part 2)
 Black Org	|	Episode 741: Bathroom Where Ran Collapsed As Well (Part 2)
 Shinichi Kudo	|	Episode 742: Promise with a J-Leaguer (Note: Flashback)
 Ai Haibara	|	Episode 742: Promise with a J-Leaguer
+Miwako Sato	|	Episode 743: Two Coincidental Successes
 Shinichi Kudo	|	Episode 744: The Suspect is Makoto Kyogoku (Part 1) (Note: Background)
 Kaitou Kid	|	Episode 746: Kaitou Kid VS Makoto Kyogoku (Part 1)
 Kaitou Kid	|	Episode 747: Kaitou Kid VS Makoto Kyogoku (Part 2)
 Ai Haibara	|	Episode 748: Metropolitan Police Detective Love Story 9 (Confession)
+Miwako Sato	|	Episode 748: Metropolitan Police Detective Love Story 9 (Confession)
 Ai Haibara	|	Episode 749: Metropolitan Police Detective Love Story 9 (Truth)
+Miwako Sato	|	Episode 749: Metropolitan Police Detective Love Story 9 (Truth)
 Ai Haibara	|	Episode 750: The Man Who Was Betrayed by the Sea
 Ai Haibara	|	Episode 751: The Case of the Lucky Calico (Part 1)
 Black Org	|	Episode 751: The Case of the Lucky Calico (Part 1)
 Rei Furuya	|	Episode 751: The Case of the Lucky Calico (Part 1)
 Ai Haibara	|	Episode 752: The Case of the Lucky Calico (Part 2)
+Miwako Sato	|	Episode 752: The Case of the Lucky Calico (Part 2)
 Ai Haibara	|	Episode 759: The Romance Novel with the Unexpected Conclusion (Part 1) (Note: Background)
 Ai Haibara	|	Episode 763: Conan and Heiji, Code of Love (Part 1)
 Heiji Hattori	|	Episode 763: Conan and Heiji's Code of Love (Part 1)
@@ -804,6 +893,8 @@ Shinichi Kudo	|	Episode 773: Shinichi Kudo's Aquarium Case (Part 2) (Note: Flash
 Ai Haibara	|	Episode 773: Shinichi Kudo's Aquarium Case (Part 2)
 Shinichi Kudo	|	Episode 774: Munch's Missing Scream (Note: Voice/Background)
 Ai Haibara	|	Episode 774: Munch's Missing Scream
+Miwako Sato	|	Episode 775: The Manipulated Great Detective (Part 1)
+Miwako Sato	|	Episode 776: The Manipulated Great Detective (Part 2)
 Ai Haibara	|	Episode 779: The Scarlet Prologue
 Shuichi Akai	|	Episode 779: The Scarlet Prologue (Note: Background)
 Black Org	|	Episode 779: The Scarlet Prologue
@@ -840,7 +931,9 @@ Vermouth	|	Episode 783: The Scarlet Truth
 Rei Furuya	|	Episode 783: The Scarlet Truth
 FBI	|	Episode 783: The Scarlet Truth
 Ai Haibara	|	Episode 785: Taiko Meijin's Match of Love (Part 1)
+Miwako Sato	|	Episode 785: Taiko Meijin's Match of Love (Part 1)
 Ai Haibara	|	Episode 786: Taiko Meijin's Match of Love (Part 2)
+Miwako Sato	|	Episode 791: Detective Takagi On the Run in Handcuffs
 Ai Haibara	|	Episode 792: Three First Discoverers (Part 1)
 Black Org	|	Episode 792: Three First Discoverers (Part 1) (Note: Background)
 Jodie Starling	|	Episode 792: Three First Discoverers (Part 1)
@@ -850,6 +943,7 @@ Ai Haibara	|	Episode 793: Three First Discoverers (Part 2)
 Ai Haibara	|	Episode 795: The Secret of the Missing Young Lady
 Ai Haibara	|	Episode 798: The Moving Target
 Ai Haibara	|	Episode 799: Detective Boys' Locked Room Mystery Battle
+Miwako Sato	|	Episode 800: After That Hundred Million Yen
 Ai Haibara	|	Episode 803: The Pitfall of Fire Precautions
 Ai Haibara	|	Episode 804: Conan and Ebizo's Kabuki J?hachiban Mystery (Part 1)
 Ai Haibara	|	Episode 805: Conan and Ebizo's Kabuki J?hachiban Mystery (Part 2)
@@ -865,8 +959,10 @@ Ai Haibara	|	Episode 815: The Actress Blogger's Locked Room Case (Part 2)
 Ai Haibara	|	Episode 816: The Disappointing and Kind Alien
 Ai Haibara	|	Episode 822: The Suspects Are a Passionate Couple (Part 1)
 Ai Haibara	|	Episode 823: The Suspects Are a Passionate Couple (Part 2)
+Miwako Sato	|	Episode 828: Ramen So Good, It's to Die For 2 (Part 2)
 Shinichi Kudo	|	Episode 829: The Mysterious Boy (Note: Flashback - young)
 Ai Haibara	|	Episode 829: The Mysterious Boy
+Miwako Sato	|	Episode 829: The Mysterious Boy
 Shinichi Kudo	|	Episode 830: A Cottage Surrounded by Zombies (Part 1) (Note: Background)
 Heiji Hattori	|	Episode 830: A Cottage Surrounded by Zombies (Part 1)
 Heiji Hattori	|	Episode 831: A Cottage Surrounded by Zombies (Part 2)
@@ -885,8 +981,13 @@ Ai Haibara	|	Episode 846: Conan Cornered in the Darkness (Part 2)
 Ai Haibara	|	Episode 847: Chiba's Difficult UFO Case (Part 1) (Note: Background)
 Shuichi Akai	|	Episode 847: Chiba's Difficult UFO Case (Part 1) (Note: Background)
 Jodie Starling	|	Episode 847: Chiba's Difficult UFO Case (Part 1) (Note: flashback)
+Miwako Sato	|	Episode 848: Chiba's Difficult UFO Case (Part 2)
 Ai Haibara	|	Episode 849: The Marriage Registration's Password (Part 1)
+Miwako Sato	|	Episode 849: The Marriage Registration's Password (Part 1)
 Ai Haibara	|	Episode 850: The Marriage Registration's Password (Part 2)
+Miwako Sato	|	Episode 850: The Marriage Registration's Password (Part 2)
+Miwako Sato	|	Episode 851: The Descent Into Hell Tour of Love (Beppu Chapter)
+Miwako Sato	|	Episode 852: The Descent Into Hell Tour of Love (Oita Chapter)
 Shinichi Kudo	|	Episode 853: Memories from Sakura Class (Ran GIRL) (Note: Flashback - young)
 Yukiko Kudo	|	Episode 853: Memories from Sakura Class (Note: Flashback)
 Shinichi Kudo	|	Episode 854: Memories from Sakura Class (Note: Flashback - young)
@@ -908,13 +1009,13 @@ Shinichi Kudo	|	Episode 866: The Stage of Betrayal (Part 1) (Note: Background)
 Shuichi Akai	|	Episode 866: The Stage of Betrayal (Part 1) (Note: Flashback and background)
 Black Org	|	Episode 866: The Stage of Betrayal (Part 1)
 Vermouth	|	Episode 866: The Stage of Betrayal (Part 1)
-Rei Furuya	|	Episode 866: The Stage of Betrayal (Part 1)
+Rei Furuya	|	Episode 866: The Betrayal's Stage (Part 1)
 FBI	|	Episode 866: The Traitor's Stage (Part 1)
 Ai Haibara	|	Episode 867: The Stage of Betrayal (Part 2) (Note: Flashback)
 Shuichi Akai	|	Episode 867: The Stage of Betrayal (Part 2) (Note: Flashback)
 Black Org	|	Episode 867: The Stage of Betrayal (Part 2)
 Vermouth	|	Episode 867: The Stage of Betrayal (Part 2) (Note: Disguised as Azusa Enomoto)
-Rei Furuya	|	Episode 867: The Stage of Betrayal (Part 2)
+Rei Furuya	|	Episode 867: The Betrayal's Stage (Part 2)
 FBI	|	Episode 867: The Traitor's Stage (Part 2)
 Ai Haibara	|	Episode 868: The Whistling Bookstore
 Ai Haibara	|	Episode 869: Conan Disappeared on the Cliff (Part 1)
@@ -964,9 +1065,12 @@ Ai Haibara	|	Episode 907: The J League Bodyguard
 Jodie Starling	|	Episode 907: The J League Bodyguard (Note: background)
 Ai Haibara	|	Episode 909: Mystery of the Burning Tent (Part 1)
 Ai Haibara	|	Episode 910: Mystery of the Burning Tent (Part 2)
+Miwako Sato	|	Episode 912: The Detective Boys Become Models
 Heiji Hattori	|	Episode 916: The Kendo Tournament of Love and Mystery (Part 1)
+Miwako Sato	|	Episode 916: The Kendo Tournament of Love and Mystery (Part 1)
 Shinichi Kudo	|	Episode 917: The Kendo Tournament of Love and Mystery (Part 2) (Note: Background)
 Heiji Hattori	|	Episode 917: The Kendo Tournament of Love and Mystery (Part 2)
+Miwako Sato	|	Episode 917: The Kendo Tournament of Love and Mystery (Part 2)
 Ai Haibara	|	Episode 918: The Mini Patrol Car Police's Big Chase (Note: Flashback)
 Shinichi Kudo	|	Episode 919: The High School Girl Trio's Secret Café (Part 1) (Note: Background)
 Ai Haibara	|	Episode 919: The High School Girl Trio's Secret Café? (Part 1) (Note: Background/Flashback)
@@ -988,6 +1092,7 @@ Heiji Hattori	|	Episode 928: The Crimson School Trip (Crimson Love Arc)
 Kaitou Kid	|	Episode 928: The Crimson School Trip (Crimson Love Arc) (Note: Background)
 Ai Haibara	|	Episode 929: A Woman Standing by the Window (Part 1)
 Ai Haibara	|	Episode 930: A Woman Standing by the Window (Part 2)
+Miwako Sato	|	Episode 936: Intrigue at the Food Court
 Ai Haibara	|	Episode 937: The Killer Fist of Talos (Part 1)
 Ai Haibara	|	Episode 938: The Killer Fist of Talos (Part 2)
 Ai Haibara	|	Episode 939: The Dangerous Fossil Finding Trip
@@ -1028,11 +1133,27 @@ Heiji Hattori	|	Episode 967: Kaiju Gomera vs. Kamen Yaiba (Climax)
 Ai Haibara	|	Episode 968: Kaiju Gomera vs. Kamen Yaiba (Finale)
 Heiji Hattori	|	Episode 968: Kaiju Gomera vs. Kamen Yaiba (Finale)
 Ai Haibara	|	Episode 971: The Target is the Metropolitan Police Traffic Department (Part 1)
+Miwako Sato	|	Episode 971: The Target is the Metropolitan Police Traffic Department (Part 1)
 Ai Haibara	|	Episode 972: The Target is the Metropolitan Police Traffic Department (Part 2)
 Shuichi Akai	|	Episode 972: The Target is the Metropolitan Police Traffic Department (Part 2) (Note: Flashback)
 Rei Furuya	|	Episode 972: The Target is the Metropolitan Police Traffic Department (Part 2)
+Miwako Sato	|	Episode 972: The Target is the Metropolitan Police Traffic Department (Part 2)
 Shuichi Akai	|	Episode 973: The Target is the Metropolitan Police Traffic Department (Part 3) (Note: Background)
+Miwako Sato	|	Episode 973: The Target is the Metropolitan Police Traffic Department (Part 3)
 Yukiko Kudo	|	Episode 974: The Target is the Metropolitan Police Traffic Department (Part 4) (Note: flashback)
 Shuichi Akai	|	Episode 974: The Target is the Metropolitan Police Traffic Department (Part 4) (Note: Flashback)
 Rei Furuya	|	Episode 974: The Target is the Metropolitan Police Traffic Department (Part 4)
+Miwako Sato	|	Episode 974: The Target is the Metropolitan Police Traffic Department (Part 4)
 Ai Haibara	|	Episode 978: The Case On the Opposite Shore
+Miwako Sato	|	Episode 980: An Encouragement of the Perfect Crime
+Ai Haibara	|	Episode 981: Welcome to Bocchan Restaurant (Part 1)
+Ai Haibara	|	Episode 982: Welcome to Bocchan Restaurant (Part 2)
+Shinichi Kudo	|	Episode 983: Kid vs. Komei: The Targeted Lips (Part 1) (Note: Flashback)
+Heiji Hattori	|	Episode 983: Kid vs. Komei: The Targeted Lips (Part 1)
+Kaitou Kid	|	Episode 983: Kid vs. Komei: The Targeted Lips (Part 1)
+Heiji Hattori	|	Episode 984: Kid vs. Komei: The Targeted Lips (Part 2)
+Kaitou Kid	|	Episode 984: Kid vs. Komei: The Targeted Lips (Part 2)
+Rei Furuya	|	Episode 984: Kid vs. Komei: The Targeted Lips (Part 2) (Note: Flashback)
+Miwako Sato	|	Episode 984: Kid vs. Komei: The Targeted Lips (Part 2)
+Ai Haibara	|	Episode 989: The Case of Ayumi's Illustrated Diary
+Miwako Sato	|	Episode 989: The Case of Ayumi's Illustrated Diary (Note: Picture)

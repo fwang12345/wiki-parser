@@ -15,12 +15,34 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 public class Parse {
-	public static final String[] name = { "Shinichi Kudo", "Ai Haibara", "Yukiko Kudo", "Heiji Hattori", "Shuichi Akai",
-			"Black Org", "Kaitou Kid", "Jodie Starling", "Vermouth", "Rei Furuya", "FBI" };
+	public static final String[] name = { 
+			"Shinichi Kudo", 
+			"Ai Haibara", 
+			"Yukiko Kudo", 
+			"Heiji Hattori", 
+			"Shuichi Akai",
+			"Black Org", 
+			"Kaitou Kid", 
+			"Jodie Starling", 
+			"Vermouth", 
+			"Rei Furuya", 
+			"FBI",
+			"Miwako Sato"};
 	public static final String prefix = "https://www.detectiveconanworld.com/wiki/";
 	public static final String suffix = "_Appearances";
-	public static final String[] web = { "Shinichi_Kudo", "Ai_Haibara", "Yukiko_Kudo", "Heiji_Hattori", "Shuichi_Akai",
-			"Black_Organization", "Kaitou_Kid", "Jodie_Starling", "Vermouth", "Rei_Furuya", "FBI" };
+	public static final String[] web = { 
+			"Shinichi_Kudo", 
+			"Ai_Haibara", 
+			"Yukiko_Kudo", 
+			"Heiji_Hattori", 
+			"Shuichi_Akai",
+			"Black_Organization", 
+			"Kaitou_Kid", 
+			"Jodie_Starling", 
+			"Vermouth", 
+			"Rei_Furuya", 
+			"FBI",
+			"Miwako_Sato"};
 	public static final Pattern p = Pattern.compile("^Episode (\\d+): (.*?)(\\(Note: .*?\\))?$");
 	public static final Pattern n = Pattern.compile("^\\(Note: (.*)\\)");
 	public static void main(String[] args) {
@@ -68,7 +90,6 @@ public class Parse {
 				int i = getNext(list, index);
 				Entry e = list.get(i).get(index[i]);
 				br.write(name[i] + "\t|\t" + e.value + '\n');
-				System.out.println(i + " " + e.key + " " + e.value);
 				index[i]++;
 			}
 			br.close();
