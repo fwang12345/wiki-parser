@@ -27,7 +27,8 @@ public class Parse {
 			"Vermouth", 
 			"Rei Furuya", 
 			"FBI",
-			"Miwako Sato"};
+			"Miwako Sato",
+			"Subaru Okiya"};
 	public static final String prefix = "https://www.detectiveconanworld.com/wiki/";
 	public static final String suffix = "_Appearances";
 	public static final String[] web = { 
@@ -42,7 +43,8 @@ public class Parse {
 			"Vermouth", 
 			"Rei_Furuya", 
 			"FBI",
-			"Miwako_Sato"};
+			"Miwako_Sato",
+			"Subaru_Okiya"};
 	public static final Pattern p = Pattern.compile("^Episode (\\d+): (.*?)(\\(Note: .*?\\))?$");
 	public static final Pattern n = Pattern.compile("^\\(Note: (.*)\\)");
 	public static void main(String[] args) {

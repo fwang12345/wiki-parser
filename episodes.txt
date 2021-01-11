@@ -568,14 +568,18 @@ Ai Haibara	|	Episode 509: Red, White, Yellow, and the Detective Boys
 Heiji Hattori	|	Episode 509: Conan vs. Double Code Mystery (Part 1) (Note: Flashback)
 Jodie Starling	|	Episode 509: Red, White, Yellow, and the Detective Boys
 FBI	|	Episode 509: Conan vs. Double Code Mystery
+Subaru Okiya	|	Episode 509: Red, White, Yellow, and the Detective Boys
 Shinichi Kudo	|	Episode 510: Conan vs. Double Code Mystery (Note: Background)
 Ai Haibara	|	Episode 510: Conan vs. Double Code Mystery
+Subaru Okiya	|	Episode 510: Conan vs. Double Code Mystery
 Shinichi Kudo	|	Episode 511: Conan vs. Double Code Mystery (Deduction Showdown! Shinichi vs. Subaru Okiya) (Note: Voice/Background)
 Ai Haibara	|	Episode 511: Deduction Showdown! Shinichi vs. Subaru Okiya
+Subaru Okiya	|	Episode 511: Deduction Showdown! Shinichi vs. Subaru Okiya
 Ai Haibara	|	Episode 515: Kaitou Kid's Teleportation Magic
 Heiji Hattori	|	Episode 515: Kaitou Kid's Teleportation Magic
 Kaitou Kid	|	Episode 515: Kaitou Kid's Teleportation Magic
 Miwako Sato	|	Episode 515: Kaitou Kid's Teleportation Magic
+Subaru Okiya	|	Episode 515: Kaitou Kid's Teleportation Magic (Note: No speaking role)
 Shinichi Kudo	|	Episode 516: Furinkazan (The Mysterious Armored Warrior) (Note: Background)
 Heiji Hattori	|	Episode 516: Furinkazan
 Shinichi Kudo	|	Episode 517: Furinkazan (Shadow and Lightning Conclusion) (Note: Voice/Background)
@@ -585,6 +589,7 @@ Ai Haibara	|	Episode 519: Meiji Restoration Mystery Tour (Decipher Chapter)
 Shinichi Kudo	|	Episode 521: Murderer, Shinichi Kudo
 Ai Haibara	|	Episode 521: Murderer, Shinichi Kudo
 Heiji Hattori	|	Episode 521: Murderer, Shinichi Kudo
+Subaru Okiya	|	Episode 521: Murderer, Shinichi Kudo (Note: Background; no speaking role)
 Shinichi Kudo	|	Episode 522: Shinichi's True Face and Ran's Tears
 Ai Haibara	|	Episode 522: Shinichi's True Face and Ran's Tears
 Heiji Hattori	|	Episode 522: Murderer, Shinichi Kudo
@@ -597,6 +602,7 @@ Shinichi Kudo	|	Episode 524: The Blue Spark of Hate (Part 1)
 Ai Haibara	|	Episode 524: The Blue Spark of Hate (Part 1)
 Heiji Hattori	|	Episode 524: The Blue Spark of Hate (Part 1)
 Ai Haibara	|	Episode 525: The Blue Spark of Hate (Part 2)
+Subaru Okiya	|	Episode 525: The Blue Spark of Hate (Part 2) (Note: No speaking role)
 Miwako Sato	|	Episode 526: A Present from the True Culprit
 Miwako Sato	|	Episode 530: The Truth Behind the Urban Legend (Part 1)
 Miwako Sato	|	Episode 531: The Truth Behind the Urban Legend (Part 2)
@@ -607,11 +613,14 @@ Miwako Sato	|	Episode 534: The New Scar and the Whistling Man
 Ai Haibara	|	Episode 535: An Old Scar and the Detective's Spirit
 Miwako Sato	|	Episode 535: An Old Scar and the Detective's Spirit
 Ai Haibara	|	Episode 536: The Secret of the Vanished Masterpiece
+Subaru Okiya	|	Episode 536: The Secret of the Vanished Masterpiece (Note: Background; no speaking role)
 Kaitou Kid	|	Episode 537: Kaitou Kid vs. the Strongest Safe (Part 1)
 Miwako Sato	|	Episode 537: Kaitou Kid vs. the Strongest Safe (Part 1) (Note: Background)
 Kaitou Kid	|	Episode 538: Kaitou Kid vs. the Strongest Safe (Part 2)
 Ai Haibara	|	Episode 542: Ikkaku Rock's Disappearing Fish (Part 1)
+Subaru Okiya	|	Episode 542: Ikkaku Rock's Disappearing Fish (Part 1)
 Ai Haibara	|	Episode 543: Ikkaku Rock's Disappearing Fish (Part 2)
+Subaru Okiya	|	Episode 543: Ikkaku Rock's Disappearing Fish (Part 2)
 Shinichi Kudo	|	Episode 545: The Witch Enshrouded by Fog (Part 1) (Note: Voice/Background)
 Miwako Sato	|	Episode 545: The Witch Enshrouded by Fog (Part 1)
 Miwako Sato	|	Episode 546: The Witch Enshrouded by Fog (Part 2)
@@ -626,6 +635,7 @@ Heiji Hattori	|	Episode 555: Stork Mystery Tour (Part 2)
 Shinichi Kudo	|	Episode 557: A Dangerous Party of Two (Note: Flashback)
 Ai Haibara	|	Episode 557: A Dangerous Party of Two
 Vermouth	|	Episode 557: A Dangerous Party of Two (Note: Background)
+Subaru Okiya	|	Episode 557: A Dangerous Party of Two (Note: Background & Flashback; no speaking role)
 Ai Haibara	|	Episode 563: Detective Boys vs. Robber Group (Turmoil)
 Shuichi Akai	|	Episode 563: Detective Boys vs. Robber Group (Turmoil) (Note: Flashback and background)
 Jodie Starling	|	Episode 563: Detective Boys vs. Robber Group (Turmoil)
@@ -641,8 +651,10 @@ Miwako Sato	|	Episode 569: Inspector Shiratori, Memories of the Cherry Blossom (
 Ai Haibara	|	Episode 571: Battle of the Haunted Warehouse's Treasure (Part 1)
 Heiji Hattori	|	Episode 571: Battle of the Haunted Warehouse's Treasure (Part 1) (Note: Flashback)
 Kaitou Kid	|	Episode 571: Battle of the Haunted Warehouse's Treasure (Part 1) (Note: Background)
+Subaru Okiya	|	Episode 571: Battle of the Haunted Warehouse's Treasure (Part 1) (Note: Flashback)
 Ai Haibara	|	Episode 572: Battle of the Haunted Warehouse's Treasure (Part 2)
 Heiji Hattori	|	Episode 572: Battle of the Haunted Warehouse's Treasure (Part 2)
+Subaru Okiya	|	Episode 572: Battle of the Haunted Warehouse's Treasure (Part 2)
 Heiji Hattori	|	Episode 573: The Whereabouts of the Embarrassing Charm (Part 1)
 Heiji Hattori	|	Episode 574: The Whereabouts of the Embarrassing Charm (Part 2)
 Ai Haibara	|	Episode 575: The Alibi of the Black Dress (Part 1)
@@ -651,18 +663,22 @@ Ai Haibara	|	Episode 578: The Crisis Beckoned by the Red Omen
 Shuichi Akai	|	Episode 578: The Crisis Beckoned by the Red Omen (Note: Background)
 Jodie Starling	|	Episode 578: The Crisis Beckoned by the Red Omen
 FBI	|	Episode 578: The Crisis Beckoned by the Red Omen
+Subaru Okiya	|	Episode 578: The Crisis Beckoned by the Red Omen
 Shuichi Akai	|	Episode 579: The Suggestion of Black Thirteen (Note: Flashback)
 Black Org	|	Episode 579: The Suggestion of Black Thirteen
 Jodie Starling	|	Episode 579: The Suggestion of Black Thirteen
 FBI	|	Episode 579: The Suggestion of Black Thirteen
+Subaru Okiya	|	Episode 579: The Suggestion of Black Thirteen (Note: No speaking role)
 Shuichi Akai	|	Episode 580: The Black Time Limit Drawing Near (Note: Flashback)
 Black Org	|	Episode 580: The Black Time Limit Drawing Near
 Jodie Starling	|	Episode 580: The Black Time Limit Drawing Near
 FBI	|	Episode 580: The Black Time Limit Drawing Near
+Subaru Okiya	|	Episode 580: The Black Time Limit Drawing Near
 Black Org	|	Episode 581: The Red Shaking Target
 Jodie Starling	|	Episode 581: The Red Shaking Target
 Vermouth	|	Episode 581: The Crisis Beckoned by the Red Omen
 FBI	|	Episode 581: The Red Shaking Target
+Subaru Okiya	|	Episode 581: The Red Shaking Target
 Ai Haibara	|	Episode 583: Kobayashi-sensei's Love
 Miwako Sato	|	Episode 583: Kobayashi-sensei's Love
 Ai Haibara	|	Episode 584: Kobayashi-sensei's Love
@@ -704,7 +720,9 @@ Yukiko Kudo	|	Episode 621: Holmes' Revelation (0 is Start)
 Shinichi Kudo	|	Episode 622: Emergency Situation 252 (Part 1) (Note: Flashback)
 Ai Haibara	|	Episode 622: Emergency Situation 252 (Part 1)
 Ai Haibara	|	Episode 623: Emergency Situation 252 (Part 2)
+Subaru Okiya	|	Episode 623: Emergency Situation 252 (Part 2)
 Ai Haibara	|	Episode 624: A Video Letter of First Love
+Subaru Okiya	|	Episode 624: A Video Letter of First Love (Note: Background; no speaking role)
 Shinichi Kudo	|	Episode 625: The Screaming Operation Room (Part 1) (Note: Flashback/Background)
 Kaitou Kid	|	Episode 627: Conan & Kid's Battle For Ryoma's Treasure (Part 1)
 Kaitou Kid	|	Episode 628: Conan & Kid's Battle For Ryoma's Treasure (Part 2)
@@ -731,6 +749,7 @@ Shinichi Kudo	|	Episode 655: The Design of Poison and Mirage (Part 4) (Note: Bac
 Heiji Hattori	|	Episode 655: The Design of Poison and Mirage (Illusion)
 Ai Haibara	|	Episode 656: The Professor's Video Site (Part 1)
 Vermouth	|	Episode 656: The Professor's Video Site (Part 1) (Note: Background)
+Subaru Okiya	|	Episode 656: The Professor's Video Site (Part 1) (Note: No speaking role)
 Ai Haibara	|	Episode 657: The Professor's Video Site (Part 2)
 Ai Haibara	|	Episode 659: Co-Investigating with a First Love (Part 1)
 Ai Haibara	|	Episode 660: Co-Investigating with a First Love (Part 2)
@@ -751,17 +770,21 @@ Rei Furuya	|	Episode 671: Detectives' Nocturne (The Case)
 Ai Haibara	|	Episode 672: Detectives' Nocturne (Kidnapping)
 Black Org	|	Episode 672: Detectives' Nocturne (Kidnapping)
 Rei Furuya	|	Episode 672: Detectives' Nocturne (Kidnapping)
+Subaru Okiya	|	Episode 672: Detectives' Nocturne (Kidnapping)
 Ai Haibara	|	Episode 673: Detectives' Nocturne (Deduction)
 Black Org	|	Episode 673: Detectives' Nocturne (Deduction)
 Rei Furuya	|	Episode 673: Detectives' Nocturne (Deduction)
+Subaru Okiya	|	Episode 673: Detectives' Nocturne (Deduction)
 Ai Haibara	|	Episode 674: Detectives' Nocturne (Bourbon)
 Black Org	|	Episode 674: Detectives' Nocturne (Bourbon)
 Vermouth	|	Episode 674: Detectives' Nocturne
 Rei Furuya	|	Episode 674: Detectives' Nocturne (Bourbon)
+Subaru Okiya	|	Episode 674: Detectives' Nocturne (Bourbon)
 Ai Haibara	|	Episode 675: Won't Forgive Even One Millimeter (Part 1)
 Shuichi Akai	|	Episode 675: Won't Forgive Even One Millimeter (Part 1) (Note: Flashback)
 Black Org	|	Episode 675: Won't Forgive Even One Millimeter (Part 1)
 Rei Furuya	|	Episode 675: Won't Forgive Even One Millimeter (Part 1) (Note: Disguised - Scar Akai)
+Subaru Okiya	|	Episode 675: Won't Forgive Even One Millimeter (Part 1) (Note: Flashback)
 Ai Haibara	|	Episode 676: Won't Forgive Even One Millimeter (Part 2)
 Black Org	|	Episode 681: The Life-Threatening Broadcast of Love (Begin Broadcasting)
 Rei Furuya	|	Episode 681: The Life-Threatening Broadcast of Love (Begin Broadcasting)
@@ -772,20 +795,26 @@ Black Org	|	Episode 683: The Life-Threatening Broadcast of Love (Enter the Scene
 Rei Furuya	|	Episode 683: The Life-Threatening Broadcast of Love (Enter the Scene)
 Miwako Sato	|	Episode 683: The Life-Threatening Broadcast of Love (Part 3)
 Ai Haibara	|	Episode 684: Froth, Steam, and Smoke (Part 1)
+Subaru Okiya	|	Episode 684: Froth, Steam, and Smoke (Part 1)
 Ai Haibara	|	Episode 685: Froth, Steam, and Smoke (Part 2)
+Subaru Okiya	|	Episode 685: Froth, Steam, and Smoke (Part 2)
 Ai Haibara	|	Episode 686: A Car Carrying a Time Bomb
 Ai Haibara	|	Episode 687: The Unsolvable Ice Trap
 Shinichi Kudo	|	Episode 690: Yusaku Kudo's Cold Case (Part 1) (Note: Flashback/Background)
+Subaru Okiya	|	Episode 690: Yusaku Kudo's Cold Case (Part 1)
 Shinichi Kudo	|	Episode 691: Yusaku Kudo's Cold Case (Part 2) (Note: Flashback/Background)
+Subaru Okiya	|	Episode 691: Yusaku Kudo's Cold Case (Part 2)
 Miwako Sato	|	Episode 692: The Evening Cherry Blossom Viewing Route on Sumida River (Part 1)
 Miwako Sato	|	Episode 693: The Evening Cherry Blossom Viewing Route on Sumida River (Part 2)
 Ai Haibara	|	Episode 696: The Flowerbed Vandal's Scheme
 Ai Haibara	|	Episode 698: No Way! The UFO Crash Case
 Ai Haibara	|	Episode 699: The Shadow Approaching Haibara's Secret (Part 1)
 Rei Furuya	|	Episode 699: The Shadow Approaching Haibara's Secret (Part 1)
+Subaru Okiya	|	Episode 699: The Shadow Approaching Haibara's Secret (Part 1) (Note: Flashback)
 Ai Haibara	|	Episode 700: The Shadow Approaching Haibara's Secret (Part 2)
 Black Org	|	Episode 700: The Shadow Approaching Haibara's Secret (Part 2)
 Rei Furuya	|	Episode 700: The Shadow Approaching Haibara's Secret (Part 2)
+Subaru Okiya	|	Episode 700: The Shadow Approaching Haibara's Secret (Part 2) (Note: No speaking role)
 Ai Haibara	|	Episode 701: The Jet-Black Mystery Train (Departure)
 Shuichi Akai	|	Episode 701: The Jet-Black Mystery Train (Departure) (Note: Flashback)
 Black Org	|	Episode 701: The Jet-Black Mystery Train (Departure)
@@ -797,12 +826,14 @@ Black Org	|	Episode 702: The Jet-Black Mystery Train (Tunnel)
 Kaitou Kid	|	Episode 702: The Jet-Black Mystery Train (Tunnel) (Note: Disguised as Maid)
 Vermouth	|	Episode 702: The Jet-Black Mystery Train (Tunnel) (Note: Disguised as Scar Akai)
 Rei Furuya	|	Episode 702: The Jet-Black Mystery Train (Intersection)
+Subaru Okiya	|	Episode 702: The Jet-Black Mystery Train (Tunnel)
 Ai Haibara	|	Episode 703: The Jet-Black Mystery Train (Intersection)
 Yukiko Kudo	|	Episode 703: The Jet-Black Mystery Train (Intersection)
 Black Org	|	Episode 703: The Jet-Black Mystery Train (Intersection)
 Kaitou Kid	|	Episode 703: The Jet-Black Mystery Train (Intersection) (Note: Disguised as Maid)
 Vermouth	|	Episode 703: The Jet-Black Mystery Train (Intersection)
 Rei Furuya	|	Episode 703: The Jet-Black Mystery Train (Tunnel)
+Subaru Okiya	|	Episode 703: The Jet-Black Mystery Train (Intersection)
 Ai Haibara	|	Episode 704: The Jet-Black Mystery Train (Destination)
 Yukiko Kudo	|	Episode 704: The Jet-Black Mystery Train (Destination)
 Shuichi Akai	|	Episode 704: The Jet-Black Mystery Train (Destination)
@@ -810,6 +841,7 @@ Black Org	|	Episode 704: The Jet-Black Mystery Train (Destination)
 Kaitou Kid	|	Episode 704: The Jet-Black Mystery Train (Destination)
 Vermouth	|	Episode 704: The Jet-Black Mystery Train (Destination)
 Rei Furuya	|	Episode 704: The Jet-Black Mystery Train (Destination)
+Subaru Okiya	|	Episode 704: The Jet-Black Mystery Train (Destination)
 Ai Haibara	|	Episode 705: Conan in a Locked Room
 Yukiko Kudo	|	Episode 705: Conan in a Locked Room (Part 1) (Note: Background)
 Black Org	|	Episode 705: Conan in a Locked Room
@@ -833,6 +865,7 @@ Ai Haibara	|	Episode 722: Sweet and Cold Delivery Service (Part 1)
 Ai Haibara	|	Episode 723: Sweet and Cold Delivery Service (Part 2)
 Black Org	|	Episode 723: Sweet and Cold Delivery Service (Part 2)
 Rei Furuya	|	Episode 723: Sweet and Cold Delivery Service (Part 2)
+Subaru Okiya	|	Episode 723: Sweet and Cold Delivery Service (Part 2)
 Kaitou Kid	|	Episode 724: Kaitou Kid and the Blush Mermaid (Part 1)
 Kaitou Kid	|	Episode 725: Kaitou Kid and the Blush Mermaid (Part 2)
 Ai Haibara	|	Episode 730: The Figure That Was Too Good
@@ -916,12 +949,14 @@ Jodie Starling	|	Episode 781: The Scarlet Intersection
 Vermouth	|	Episode 781: The Scarlet Intersection
 Rei Furuya	|	Episode 781: The Scarlet Intersection
 FBI	|	Episode 781: The Scarlet Intersection
+Subaru Okiya	|	Episode 781: The Scarlet Intersection (Note: Yusaku Kudo in disguise)
 Yukiko Kudo	|	Episode 782: The Scarlet Return (Note: Disguised as Yusaku Kudo)
 Shuichi Akai	|	Episode 782: The Scarlet Return
 Black Org	|	Episode 782: The Scarlet Return
 Jodie Starling	|	Episode 782: The Scarlet Return
 Rei Furuya	|	Episode 782: The Scarlet Return
 FBI	|	Episode 782: The Scarlet Return
+Subaru Okiya	|	Episode 782: The Scarlet Return (Note: Yusaku Kudo in disguise)
 Ai Haibara	|	Episode 783: The Scarlet Truth (Note: Background)
 Yukiko Kudo	|	Episode 783: The Scarlet Return
 Shuichi Akai	|	Episode 783: The Scarlet Truth
@@ -930,15 +965,18 @@ Jodie Starling	|	Episode 783: The Scarlet Truth
 Vermouth	|	Episode 783: The Scarlet Truth
 Rei Furuya	|	Episode 783: The Scarlet Truth
 FBI	|	Episode 783: The Scarlet Truth
+Subaru Okiya	|	Episode 783: The Scarlet Truth
 Ai Haibara	|	Episode 785: Taiko Meijin's Match of Love (Part 1)
 Miwako Sato	|	Episode 785: Taiko Meijin's Match of Love (Part 1)
 Ai Haibara	|	Episode 786: Taiko Meijin's Match of Love (Part 2)
+Subaru Okiya	|	Episode 786: Taiko Meijin's Match of Love (Part 2)
 Miwako Sato	|	Episode 791: Detective Takagi On the Run in Handcuffs
 Ai Haibara	|	Episode 792: Three First Discoverers (Part 1)
 Black Org	|	Episode 792: Three First Discoverers (Part 1) (Note: Background)
 Jodie Starling	|	Episode 792: Three First Discoverers (Part 1)
 Rei Furuya	|	Episode 792: Three First Discoverers (Part 1) (Note: Background)
 FBI	|	Episode 792: Three First Discoverers (Part 1)
+Subaru Okiya	|	Episode 792: Three First Discoverers (Part 1)
 Ai Haibara	|	Episode 793: Three First Discoverers (Part 2)
 Ai Haibara	|	Episode 795: The Secret of the Missing Young Lady
 Ai Haibara	|	Episode 798: The Moving Target
@@ -996,10 +1034,12 @@ Ai Haibara	|	Episode 859: The Dark Mountain Route
 Ai Haibara	|	Episode 861: Just Like a 17 Years Old Crime Scene (Part 1)
 Shuichi Akai	|	Episode 861: Just Like a 17 Years Old Crime Scene (Part 1) (Note: Background)
 FBI	|	Episode 861: Just Like a 17 Years Old Crime Scene (Part 1)
+Subaru Okiya	|	Episode 861: Just Like a 17 Years Old Crime Scene (Part 1)
 Shinichi Kudo	|	Episode 862: Just Like a 17 Years Old Crime Scene (Part 2) (Note: Background)
 Shuichi Akai	|	Episode 862: Just Like a 17 Years Old Crime Scene (Part 2) (Note: Background)
 Jodie Starling	|	Episode 862: Just Like a 17 Years Old Crime Scene (Part 2)
 FBI	|	Episode 862: Just Like a 17 Years Old Crime Scene (Part 2)
+Subaru Okiya	|	Episode 862: Just Like a 17 Years Old Crime Scene (Part 2)
 Shinichi Kudo	|	Episode 863: Soul Detective Murder Case (Part 1) (Note: Flashback)
 Black Org	|	Episode 863: Soul Detective Murder Case (Part 1)
 Vermouth	|	Episode 863: Soul Detective Murder Case (Part 1) (Note: Background)
@@ -1011,12 +1051,14 @@ Black Org	|	Episode 866: The Stage of Betrayal (Part 1)
 Vermouth	|	Episode 866: The Stage of Betrayal (Part 1)
 Rei Furuya	|	Episode 866: The Betrayal's Stage (Part 1)
 FBI	|	Episode 866: The Traitor's Stage (Part 1)
+Subaru Okiya	|	Episode 866: The Betrayal's Stage (Part 1)
 Ai Haibara	|	Episode 867: The Stage of Betrayal (Part 2) (Note: Flashback)
 Shuichi Akai	|	Episode 867: The Stage of Betrayal (Part 2) (Note: Flashback)
 Black Org	|	Episode 867: The Stage of Betrayal (Part 2)
 Vermouth	|	Episode 867: The Stage of Betrayal (Part 2) (Note: Disguised as Azusa Enomoto)
 Rei Furuya	|	Episode 867: The Betrayal's Stage (Part 2)
 FBI	|	Episode 867: The Traitor's Stage (Part 2)
+Subaru Okiya	|	Episode 867: The Betrayal's Stage (Part 2)
 Ai Haibara	|	Episode 868: The Whistling Bookstore
 Ai Haibara	|	Episode 869: Conan Disappeared on the Cliff (Part 1)
 Ai Haibara	|	Episode 870: Conan Disappeared on the Cliff (Part 2)
@@ -1047,8 +1089,10 @@ Heiji Hattori	|	Episode 886: Solving Mysteries at the Poirot Café (Part 2)
 Rei Furuya	|	Episode 886: Solving Mysteries at the Poirot Café (Part 2)
 Ai Haibara	|	Episode 887: Kaitou Kid and the Trick Box (Part 1)
 Kaitou Kid	|	Episode 887: Kaitou Kid and the Trick Box (Part 1)
+Subaru Okiya	|	Episode 887: Kaitou Kid and the Trick Box (Part 1)
 Ai Haibara	|	Episode 888: Kaitou Kid and the Trick Box (Part 2)
 Kaitou Kid	|	Episode 888: Kaitou Kid and the Trick Box (Part 2)
+Subaru Okiya	|	Episode 888: Kaitou Kid and the Trick Box (Part 2)
 Shinichi Kudo	|	Episode 889: The New Teacher's Skeleton Case (Part 1) (Note: Flashback)
 Ai Haibara	|	Episode 889: The New Teacher's Skeleton Case (Part 1)
 Ai Haibara	|	Episode 890: The New Teacher's Skeleton Case (Part 2)
@@ -1081,11 +1125,14 @@ Shinichi Kudo	|	Episode 925: The Heartfelt Strap (Part 1) (Note: Flashback)
 Ai Haibara	|	Episode 925: The Heartfelt Strap (Part 1)
 Heiji Hattori	|	Episode 925: The Heartfelt Strap (Part 1) (Note: flashback)
 Rei Furuya	|	Episode 925: The Heartfelt Strap (Part 1)
+Subaru Okiya	|	Episode 925: The Heartfelt Strap (Part 1)
 Ai Haibara	|	Episode 926: The Heartfelt Strap (Part 2)
 Rei Furuya	|	Episode 926: The Heartfelt Strap (Part 2)
+Subaru Okiya	|	Episode 926: The Heartfelt Strap (Part 2)
 Shinichi Kudo	|	Episode 927: The Crimson School Trip (Bright Red Arc)
 Ai Haibara	|	Episode 927: The Scarlet School Trip (Bright Red Arc) (Note: Flashback)
 Heiji Hattori	|	Episode 927: The Crimson School Trip (Bright Red Arc)
+Subaru Okiya	|	Episode 927: The Crimson School Trip (Bright Red Arc) (Note: Flashback)
 Shinichi Kudo	|	Episode 928: The Crimson School Trip (Crimson Love Arc)
 Yukiko Kudo	|	Episode 928: The Crimson School Trip (Crimson Love Arc)
 Heiji Hattori	|	Episode 928: The Crimson School Trip (Crimson Love Arc)
@@ -1101,6 +1148,7 @@ Ai Haibara	|	Episode 941: Search for Maria-chan! (Part 1)
 Yukiko Kudo	|	Episode 941: Search for Maria-chan! (Part 1) (Note: Picture)
 Heiji Hattori	|	Episode 941: Search for Maria-chan! (Part 1)
 Black Org	|	Episode 941: Search for Maria-chan! (Part 1)
+Subaru Okiya	|	Episode 941: Search for Maria-chan! (Part 1)
 Shinichi Kudo	|	Episode 942: Search for Maria-chan! (Part 2) (Note: Background)
 Ai Haibara	|	Episode 942: Search for Maria-chan! (Part 2)
 Yukiko Kudo	|	Episode 942: Search for Maria-chan! (Part 2)
@@ -1109,6 +1157,7 @@ Shuichi Akai	|	Episode 942: Search for Maria-chan! (Part 2) (Note: Background)
 Black Org	|	Episode 942: Search for Maria-chan! (Part 2)
 Vermouth	|	Episode 942: Search for Maria-chan! (Part 2) (Note: Background)
 Rei Furuya	|	Episode 942: Search for Maria-chan! (Part 2)
+Subaru Okiya	|	Episode 942: Search for Maria-chan! (Part 2) (Note: Background)
 Ai Haibara	|	Episode 944: The Cost of Likes (Part 1)
 Ai Haibara	|	Episode 945: The Cost of Likes (Part 2)
 Ai Haibara	|	Episode 948: The Man Crushed by a Dinosaur
@@ -1120,6 +1169,7 @@ Rei Furuya	|	Episode 953: The Unsolved Cocktail Case (Part 2)
 Yukiko Kudo	|	Episode 954: The Unsolved Cocktail Case (Part 3)
 Shuichi Akai	|	Episode 954: The Unsolved Cocktail Case (Part 3)
 Rei Furuya	|	Episode 954: The Unsolved Cocktail Case (Part 3)
+Subaru Okiya	|	Episode 954: The Unsolved Cocktail Case (Part 3) (Note: Yusaku Kudo in disguise)
 Ai Haibara	|	Episode 960: Miss Lonely and the Detective Boys
 Ai Haibara	|	Episode 962: Kogoro Mouri's Grand Lecture (Part 1)
 Ai Haibara	|	Episode 963: Kogoro Mouri's Grand Lecture (Part 2)
@@ -1140,6 +1190,7 @@ Rei Furuya	|	Episode 972: The Target is the Metropolitan Police Traffic Departme
 Miwako Sato	|	Episode 972: The Target is the Metropolitan Police Traffic Department (Part 2)
 Shuichi Akai	|	Episode 973: The Target is the Metropolitan Police Traffic Department (Part 3) (Note: Background)
 Miwako Sato	|	Episode 973: The Target is the Metropolitan Police Traffic Department (Part 3)
+Subaru Okiya	|	Episode 973: The Target is the Metropolitan Police Traffic Department (Part 3)
 Yukiko Kudo	|	Episode 974: The Target is the Metropolitan Police Traffic Department (Part 4) (Note: flashback)
 Shuichi Akai	|	Episode 974: The Target is the Metropolitan Police Traffic Department (Part 4) (Note: Flashback)
 Rei Furuya	|	Episode 974: The Target is the Metropolitan Police Traffic Department (Part 4)
